@@ -1,0 +1,13 @@
+vendedor_id,nombre_vendedor,region,fecha_ingreso,meta_mensual
+V001,José Cárdenas,Costa,2022-10-29,25000.00
+V002,José Salazar,Norte,2024-07-29,15000.00
+V003,Fernando Torres,Centro,2023-06-09,30000.00
+V004,Camila Herrera,Sur,2023-08-16,18000.00
+V005,Paola Silva,Costa,2025-01-21,30000.00
+V006,Luis Rojas,Norte,2023-11-05,12000.00
+V007,Luis Medina,Centro,2022-08-06,30000.00
+V008,Diego Navarro,Sur,2024-05-29,12000.00
+V009,Carlos Aguilar,Costa,2024-05-25,30000.00
+V010,Renzo Salazar,Norte,2023-03-04,18000.00
+V011,Álvaro López,Centro,2023-06-20,30000.00
+V012,Sebastián Herrera,Sur,2023-08-29,25000.00

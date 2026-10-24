@@ -1,0 +1,46 @@
+producto_id,nombre_producto,categoria,marca,precio_lista,costo_unitario,activo
+P0001,Laptop Nova 14,Tecnología,NovaTech,2130.00,1295.55,true
+P0002,Mouse Ergonómico,Tecnología,ClickPro,1095.00,590.93,true
+P0003,Teclado Mecánico,Tecnología,KeyMax,2220.00,1335.93,true
+P0004,Audífonos Bluetooth,Tecnología,SoundGo,735.00,518.89,true
+P0005,Monitor 24 pulgadas,Tecnología,ViewPlus,2715.00,1746.64,false
+P0006,Webcam Full HD,Tecnología,VisionX,2135.00,1434.37,true
+P0007,SSD Externo 1TB,Tecnología,DataBox,205.00,105.29,true
+P0008,Smartwatch Active,Tecnología,Pulse,1855.00,959.23,true
+P0009,Licuadora Compacta,Hogar,CasaMix,485.00,329.14,false
+P0010,Cafetera Digital,Hogar,Aroma,145.00,102.50,true
+P0011,Freidora de Aire,Hogar,BuenHogar,690.00,334.68,true
+P0012,Juego de Sábanas,Hogar,Nube,165.00,88.78,true
+P0013,Organizador Modular,Hogar,Ordena,685.00,482.21,true
+P0014,Lámpara LED,Hogar,Lumi,540.00,368.17,true
+P0015,Aspiradora Portátil,Hogar,CleanUp,270.00,133.07,true
+P0016,Casaca Urbana,Moda,AndesWear,155.00,108.43,true
+P0017,Polo Oversize,Moda,Calle,250.00,154.77,true
+P0018,Zapatillas Runner,Moda,Paso,50.00,32.27,true
+P0019,Mochila Casual,Moda,Ruta,30.00,20.65,false
+P0020,Jeans Clásico,Moda,DenimCo,30.00,20.08,true
+P0021,Vestido Midi,Moda,Luna,55.00,36.42,true
+P0022,Gorra Minimal,Moda,Cumbre,40.00,22.83,true
+P0023,Mat de Yoga,Deportes,Balance,215.00,109.16,true
+P0024,Mancuernas 5kg,Deportes,Force,90.00,57.69,true
+P0025,Pelota de Fútbol,Deportes,Golazo,175.00,88.42,true
+P0026,Banda Elástica,Deportes,Move,250.00,127.02,true
+P0027,Botella Térmica,Deportes,Hydra,255.00,151.06,true
+P0028,Guantes Fitness,Deportes,Strong,245.00,152.37,true
+P0029,Cuerda de Saltar,Deportes,Sprint,105.00,63.31,true
+P0030,Protector Solar,Belleza,SolCare,155.00,104.41,true
+P0031,Serum Facial,Belleza,Pura,115.00,70.16,true
+P0032,Secadora Compacta,Belleza,StylePro,75.00,54.45,true
+P0033,Kit de Brochas,Belleza,Glow,185.00,129.80,true
+P0034,Crema Hidratante,Belleza,Dermaluz,135.00,93.55,true
+P0035,Perfume Floral,Belleza,Aura,165.00,78.53,true
+P0036,Shampoo Natural,Belleza,Raíz,115.00,55.62,true
+P0037,Silla Ergonómica,Oficina,WorkFit,130.00,86.58,true
+P0038,Cuaderno Ejecutivo,Oficina,Notas,10.00,6.28,true
+P0039,Hub USB-C,Oficina,LinkPro,940.00,607.02,true
+P0040,Soporte para Laptop,Oficina,DeskUp,890.00,582.23,true
+P0041,Agenda Semanal,Oficina,Planifica,680.00,489.98,true
+P0042,Lámpara de Escritorio,Oficina,LumiDesk,735.00,408.55,true
+P0043,Calculadora Científica,Oficina,Numex,530.00,368.61,true
+P0044,Pizarra Magnética,Oficina,IdeaBoard,940.00,590.83,true
+P0045,Archivador A4,Oficina,OrdenaPro,630.00,400.56,true

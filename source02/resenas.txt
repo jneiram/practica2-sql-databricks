@@ -1,0 +1,136 @@
+resena_id,inscripcion_id,fecha_resena,calificacion,comentario
+Q00001,N00002,2025-12-01,4,Buen contenido
+Q00002,N00007,2026-01-02,3,Podría tener más ejemplos
+Q00003,N00010,2025-01-09,5,Excelente curso
+Q00004,N00012,2026-07-20,5,Superó mis expectativas
+Q00005,N00013,2026-02-01,4,Recomendado
+Q00006,N00014,2026-06-22,3,Contenido correcto
+Q00007,N00022,2026-05-23,4,Recomendado
+Q00008,N00025,2026-05-29,3,Contenido correcto
+Q00009,N00028,2026-06-27,3,Podría tener más ejemplos
+Q00010,N00032,2026-07-20,5,Superó mis expectativas
+Q00011,N00033,2026-07-20,4,Buen contenido
+Q00012,N00035,2025-11-27,5,Muy claro y útil
+Q00013,N00036,2026-07-20,4,Buen contenido
+Q00014,N00046,2026-06-16,5,Muy claro y útil
+Q00015,N00049,2025-11-06,5,Muy claro y útil
+Q00016,N00054,2026-05-03,5,Excelente curso
+Q00017,N00055,2026-03-31,4,Recomendado
+Q00018,N00058,2026-05-17,4,Buen contenido
+Q00019,N00060,2026-07-20,4,Explicaciones claras
+Q00020,N00069,2026-07-20,5,Muy claro y útil
+Q00021,N00082,2026-07-20,5,Excelente curso
+Q00022,N00086,2025-05-01,4,Explicaciones claras
+Q00023,N00089,2026-05-26,4,Buen contenido
+Q00024,N00092,2026-05-17,4,Buen contenido
+Q00025,N00093,2026-07-18,4,Explicaciones claras
+Q00026,N00095,2026-06-14,3,Cumple lo esperado
+Q00027,N00096,2026-06-24,4,Buen contenido
+Q00028,N00100,2025-10-02,3,Contenido correcto
+Q00029,N00101,2026-06-09,3,Podría tener más ejemplos
+Q00030,N00103,2026-07-16,4,Explicaciones claras
+Q00031,N00109,2026-07-10,2,Contenido poco claro
+Q00032,N00111,2026-07-02,5,Muy claro y útil
+Q00033,N00113,2025-07-02,5,Superó mis expectativas
+Q00034,N00117,2025-08-10,4,Buen contenido
+Q00035,N00120,2025-10-23,5,Excelente curso
+Q00036,N00130,2026-04-13,3,Contenido correcto
+Q00037,N00131,2026-02-04,5,Muy claro y útil
+Q00038,N00139,2025-11-22,5,Muy claro y útil
+Q00039,N00147,2026-07-17,5,Superó mis expectativas
+Q00040,N00149,2026-02-21,4,Recomendado
+Q00041,N00154,2026-07-20,4,Recomendado
+Q00042,N00156,2026-04-23,3,Cumple lo esperado
+Q00043,N00159,2026-05-13,5,Muy claro y útil
+Q00044,N00168,2025-01-07,3,Cumple lo esperado
+Q00045,N00169,2026-01-28,5,Superó mis expectativas
+Q00046,N00170,2026-02-16,5,Superó mis expectativas
+Q00047,N00173,2025-08-15,4,Buen contenido
+Q00048,N00174,2026-02-23,3,Contenido correcto
+Q00049,N00175,2025-04-20,3,Podría tener más ejemplos
+Q00050,N00184,2026-04-10,4,Recomendado
+Q00051,N00199,2026-06-29,4,Buen contenido
+Q00052,N00201,2026-05-05,4,Buen contenido
+Q00053,N00203,2026-05-03,4,Buen contenido
+Q00054,N00209,2026-04-07,5,Superó mis expectativas
+Q00055,N00211,2025-04-29,5,Muy claro y útil
+Q00056,N00221,2025-11-13,5,Muy claro y útil
+Q00057,N00222,2026-03-31,5,Muy claro y útil
+Q00058,N00223,2026-02-17,4,Explicaciones claras
+Q00059,N00227,2025-09-13,3,Podría tener más ejemplos
+Q00060,N00230,2026-07-20,5,Superó mis expectativas
+Q00061,N00232,2026-04-11,3,Contenido correcto
+Q00062,N00239,2026-04-15,4,Buen contenido
+Q00063,N00241,2025-09-30,4,Explicaciones claras
+Q00064,N00242,2026-07-20,5,Excelente curso
+Q00065,N00245,2026-07-20,4,Buen contenido
+Q00066,N00246,2026-05-07,5,Muy claro y útil
+Q00067,N00249,2026-07-11,3,Cumple lo esperado
+Q00068,N00271,2026-07-20,4,Explicaciones claras
+Q00069,N00273,2025-05-29,4,Explicaciones claras
+Q00070,N00275,2026-06-16,5,Muy claro y útil
+Q00071,N00277,2024-10-04,3,Cumple lo esperado
+Q00072,N00285,2025-03-17,5,Superó mis expectativas
+Q00073,N00286,2026-06-27,4,Buen contenido
+Q00074,N00289,2024-10-13,3,Cumple lo esperado
+Q00075,N00290,2026-07-09,2,Faltó profundidad
+Q00076,N00291,2026-04-09,4,Recomendado
+Q00077,N00294,2025-05-21,4,Explicaciones claras
+Q00078,N00295,2026-03-07,5,Excelente curso
+Q00079,N00301,2026-07-20,4,Buen contenido
+Q00080,N00304,2026-07-04,2,Necesita más práctica
+Q00081,N00315,2025-07-23,4,Recomendado
+Q00082,N00319,2026-04-09,5,Excelente curso
+Q00083,N00320,2026-07-20,4,Recomendado
+Q00084,N00321,2026-05-14,5,Superó mis expectativas
+Q00085,N00323,2025-05-13,4,Recomendado
+Q00086,N00325,2026-06-09,5,Excelente curso
+Q00087,N00326,2025-12-28,3,Contenido correcto
+Q00088,N00330,2026-07-13,4,Recomendado
+Q00089,N00336,2026-07-20,5,Excelente curso
+Q00090,N00343,2025-08-09,4,Recomendado
+Q00091,N00348,2026-03-05,5,Excelente curso
+Q00092,N00352,2026-07-10,5,Superó mis expectativas
+Q00093,N00354,2025-11-12,2,Faltó profundidad
+Q00094,N00357,2026-03-17,5,Superó mis expectativas
+Q00095,N00364,2026-03-08,4,Explicaciones claras
+Q00096,N00368,2026-02-01,4,Buen contenido
+Q00097,N00369,2026-03-09,5,Superó mis expectativas
+Q00098,N00370,2026-05-10,2,Contenido poco claro
+Q00099,N00371,2026-07-16,4,Recomendado
+Q00100,N00374,2026-02-23,2,Necesita más práctica
+Q00101,N00376,2026-07-07,3,Cumple lo esperado
+Q00102,N00379,2025-12-12,4,Explicaciones claras
+Q00103,N00382,2024-07-02,4,Buen contenido
+Q00104,N00385,2026-03-09,5,Muy claro y útil
+Q00105,N00386,2026-07-20,3,Podría tener más ejemplos
+Q00106,N00396,2026-07-03,3,Podría tener más ejemplos
+Q00107,N00401,2026-06-15,4,Buen contenido
+Q00108,N00407,2024-11-04,4,Recomendado
+Q00109,N00415,2025-12-16,3,Cumple lo esperado
+Q00110,N00417,2026-04-15,5,Excelente curso
+Q00111,N00418,2025-05-14,4,Explicaciones claras
+Q00112,N00419,2025-06-17,4,Recomendado
+Q00113,N00421,2026-07-11,4,Explicaciones claras
+Q00114,N00423,2026-07-07,4,Explicaciones claras
+Q00115,N00427,2026-07-20,5,Excelente curso
+Q00116,N00428,2025-05-10,4,Recomendado
+Q00117,N00434,2025-08-24,3,Podría tener más ejemplos
+Q00118,N00435,2026-02-10,3,Podría tener más ejemplos
+Q00119,N00437,2025-08-16,3,Podría tener más ejemplos
+Q00120,N00441,2026-02-17,4,Buen contenido
+Q00121,N00455,2026-07-20,5,Superó mis expectativas
+Q00122,N00456,2026-01-03,4,Recomendado
+Q00123,N00466,2026-06-22,5,Muy claro y útil
+Q00124,N00474,2026-03-03,3,Podría tener más ejemplos
+Q00125,N00476,2026-06-07,4,Explicaciones claras
+Q00126,N00478,2026-04-02,3,Contenido correcto
+Q00127,N00490,2025-11-17,4,Recomendado
+Q00128,N00496,2026-06-29,5,Muy claro y útil
+Q00129,N00498,2026-06-19,4,Explicaciones claras
+Q00130,N00506,2025-12-01,4,Recomendado
+Q00131,N00510,2026-07-20,4,Buen contenido
+Q00132,N00512,2026-06-03,3,Cumple lo esperado
+Q00133,N00514,2025-03-23,5,Excelente curso
+Q00134,N00517,2025-09-03,5,Excelente curso
+Q00135,N00519,2025-09-16,4,Buen contenido

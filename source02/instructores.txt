@@ -1,0 +1,21 @@
+instructor_id,nombre_instructor,pais,especialidad,fecha_ingreso
+I001,Lucía Paredes,Ecuador,Data Analytics,2025-01-31
+I002,Luis Herrera,Colombia,Programación,2021-08-30
+I003,Paola Espinoza,México,Marketing,2023-04-13
+I004,Hugo Peña,México,Diseño UX,2021-09-29
+I005,Luis Cárdenas,Ecuador,Negocios,2021-06-01
+I006,Andrea Mendoza,Perú,Cloud,2022-07-02
+I007,Lucía Rojas,Argentina,Inteligencia Artificial,2024-02-26
+I008,Luis Silva,Ecuador,Data Analytics,2023-11-05
+I009,Hugo Salazar,Ecuador,Programación,2025-05-13
+I010,José Paredes,Colombia,Marketing,2024-10-07
+I011,Renzo Ramos,Ecuador,Diseño UX,2024-03-02
+I012,Andrea Núñez,Chile,Negocios,2023-04-25
+I013,Renzo Espinoza,Argentina,Cloud,2022-07-16
+I014,Bruno Mendoza,Argentina,Inteligencia Artificial,2024-05-19
+I015,Carlos Navarro,Ecuador,Data Analytics,2022-03-01
+I016,Hugo García,Ecuador,Programación,2025-03-12
+I017,Rosa Paredes,Argentina,Marketing,2022-05-16
+I018,Carlos Chávez,Perú,Diseño UX,2024-05-07
+I019,Alejandra Ramos,México,Negocios,2023-02-08
+I020,Natalia Medina,Ecuador,Cloud,2025-06-05

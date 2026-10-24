@@ -1,0 +1,181 @@
+estudiante_id,nombre_estudiante,pais,ciudad,plan,fecha_registro,edad
+E0001,Natalia Reyes,Perú,Arequipa,Gratis,2024-05-20,23
+E0002,Marco Peña,Colombia,Bogotá,Básico,2025-09-07,37
+E0003,Valeria López,Perú,Cusco,Gratis,2025-11-23,24
+E0004,Fernando Reyes,México,Querétaro,Básico,2024-07-02,52
+E0005,Andrea Chávez,Colombia,Bogotá,Gratis,2024-01-15,32
+E0006,Álvaro Acosta,Chile,Concepción,Básico,2024-06-22,48
+E0007,Gabriela Vargas,Ecuador,Guayaquil,Gratis,2026-05-20,46
+E0008,Gabriela Rojas,Perú,Lima,Básico,2025-10-02,26
+E0009,Fernando Valdez,Argentina,Córdoba,Premium,2025-03-29,37
+E0010,Gabriela Aguilar,Ecuador,Quito,Básico,2025-03-08,35
+E0011,Hugo Chávez,México,Ciudad de México,Premium,2024-04-15,33
+E0012,Renzo Torres,Argentina,Buenos Aires,Premium,2025-06-01,29
+E0013,Fiorella Ramos,Colombia,Medellín,Básico,2026-05-19,53
+E0014,Marco Espinoza,México,Querétaro,Gratis,2025-10-28,25
+E0015,Daniela Campos,México,Ciudad de México,Gratis,2026-04-06,27
+E0016,Mateo García,Perú,Trujillo,Básico,2025-09-26,48
+E0017,Sofía Peña,Perú,Cusco,Gratis,2024-06-27,26
+E0018,Hugo Medina,México,Querétaro,Básico,2024-08-28,28
+E0019,Miguel Cárdenas,Ecuador,Cuenca,Básico,2024-10-31,24
+E0020,Hugo Aguilar,Perú,Lima,Gratis,2024-09-04,40
+E0021,Fiorella Silva,México,Ciudad de México,Básico,2024-07-28,32
+E0022,Fernando López,Colombia,Bogotá,Gratis,2025-03-16,20
+E0023,Miguel Ortega,Argentina,Buenos Aires,Gratis,2026-05-06,42
+E0024,Andrea García,Perú,Arequipa,Gratis,2024-02-09,20
+E0025,José Reyes,México,Guadalajara,Premium,2025-08-08,22
+E0026,Fernando Cárdenas,Ecuador,Guayaquil,Básico,2024-08-22,48
+E0027,Hugo Paredes,Perú,Lima,Premium,2024-06-05,43
+E0028,Ricardo Vargas,Perú,Lima,Gratis,2024-03-21,19
+E0029,Bruno Quispe,Perú,Lima,Gratis,2024-11-18,44
+E0030,Jorge Acosta,Ecuador,Guayaquil,Gratis,2025-03-17,29
+E0031,María Ortega,Ecuador,Cuenca,Básico,2025-09-24,55
+E0032,Marco Quispe,Chile,Valparaíso,Premium,2025-07-08,45
+E0033,Álvaro Silva,Chile,Concepción,Gratis,2025-02-28,19
+E0034,Alejandra Ramos,Perú,Cusco,Premium,2025-10-16,21
+E0035,Marco Medina,Argentina,Córdoba,Gratis,2024-09-07,26
+E0036,Valeria Mendoza,Perú,Lima,Básico,2025-06-03,27
+E0037,Jorge Silva,Colombia,Medellín,Básico,2025-10-12,39
+E0038,Luis López,México,Guadalajara,Básico,2024-12-01,50
+E0039,Luis Ortega,Colombia,Medellín,Básico,2025-03-27,48
+E0040,Mateo Ortega,Colombia,Medellín,Básico,2024-03-13,18
+E0041,Valeria Acosta,México,Ciudad de México,Premium,2024-12-27,30
+E0042,Camila Chávez,Ecuador,Quito,Premium,2024-05-28,23
+E0043,Ana Reyes,Colombia,Cali,Básico,2025-11-28,35
+E0044,Alejandra Paredes,Perú,Arequipa,Gratis,2025-11-06,37
+E0045,Lucía Campos,México,Guadalajara,Básico,2024-06-16,20
+E0046,Ana López,México,Querétaro,Básico,2025-08-19,27
+E0047,Lucía Núñez,México,Querétaro,Básico,2026-01-13,40
+E0048,Miguel López,Perú,Trujillo,Gratis,2024-07-27,33
+E0049,Álvaro Paredes,Argentina,Mendoza,Gratis,2024-02-02,54
+E0050,Miguel Ramírez,Perú,Lima,Premium,2024-03-01,55
+E0051,Andrea Acosta,Chile,Concepción,Gratis,2026-02-04,39
+E0052,Luis Chávez,Chile,Valparaíso,Básico,2025-09-06,55
+E0053,Valeria Reyes,México,Querétaro,Básico,2025-12-09,34
+E0054,Hugo García,Perú,Cusco,Básico,2025-02-03,48
+E0055,Carla Salazar,Colombia,Bogotá,Básico,2024-04-30,24
+E0056,Valeria Chávez,Perú,Trujillo,Gratis,2025-09-20,35
+E0057,Hugo Quispe,Ecuador,Cuenca,Básico,2026-03-26,22
+E0058,Sofía Reyes,Argentina,Mendoza,Premium,2025-06-17,18
+E0059,Diego Ramos,Perú,Lima,Básico,2026-04-22,29
+E0060,Paola Vargas,Colombia,Medellín,Premium,2024-09-13,23
+E0061,Carla Mendoza,Argentina,Buenos Aires,Básico,2025-06-30,43
+E0062,Alejandra Peña,México,Guadalajara,Básico,2024-09-18,35
+E0063,José Núñez,Chile,Valparaíso,Premium,2025-04-19,20
+E0064,Renzo Campos,México,Querétaro,Gratis,2025-06-29,49
+E0065,Alejandra Salazar,Chile,Santiago,Premium,2025-12-26,51
+E0066,Fiorella Salazar,México,Ciudad de México,Básico,2026-04-02,43
+E0067,José Silva,Chile,Santiago,Básico,2025-07-24,52
+E0068,Carla Sánchez,México,Ciudad de México,Básico,2025-10-27,22
+E0069,Valeria Ortega,México,Guadalajara,Gratis,2024-04-15,48
+E0070,Bruno Mendoza,Colombia,Medellín,Gratis,2024-10-07,35
+E0071,Diego Chávez,México,Ciudad de México,Gratis,2025-01-01,27
+E0072,Sebastián Acosta,Chile,Santiago,Gratis,2024-09-11,37
+E0073,Fiorella Vargas,Ecuador,Cuenca,Gratis,2025-02-14,34
+E0074,Renzo Reyes,Perú,Lima,Gratis,2025-11-09,32
+E0075,Fiorella Campos,Colombia,Cali,Básico,2024-03-31,46
+E0076,Andrea Sánchez,México,Querétaro,Básico,2026-04-15,23
+E0077,Álvaro Cárdenas,Perú,Lima,Básico,2024-08-15,52
+E0078,Luis Ortega,México,Querétaro,Gratis,2024-09-27,32
+E0079,Marco Sánchez,Colombia,Medellín,Básico,2026-03-20,49
+E0080,Rosa Navarro,Chile,Santiago,Premium,2025-07-10,52
+E0081,Ricardo Castro,Colombia,Cali,Gratis,2024-01-30,28
+E0082,Marco Chávez,Colombia,Bogotá,Gratis,2024-01-10,55
+E0083,Valeria Ramos,Argentina,Mendoza,Gratis,2024-04-26,20
+E0084,Carlos García,Argentina,Mendoza,Básico,2025-07-14,34
+E0085,Gabriela Ramírez,Argentina,Buenos Aires,Premium,2025-05-09,54
+E0086,Paola Medina,Chile,Santiago,Gratis,2025-01-29,53
+E0087,Natalia Ramírez,Perú,Cusco,Gratis,2025-11-23,23
+E0088,María Herrera,Argentina,Córdoba,Gratis,2024-10-20,50
+E0089,Hugo López,Colombia,Cali,Básico,2025-12-30,48
+E0090,Gabriela Salazar,México,Querétaro,Gratis,2024-08-09,37
+E0091,Hugo Paredes,Perú,Cusco,Premium,2026-03-15,48
+E0092,Ricardo Medina,Perú,Arequipa,Gratis,2025-09-15,51
+E0093,Valeria Flores,Argentina,Buenos Aires,Premium,2024-10-01,37
+E0094,María Sánchez,Argentina,Córdoba,Gratis,2024-03-09,39
+E0095,Ana Espinoza,Colombia,Bogotá,Básico,2025-10-28,37
+E0096,María Espinoza,Ecuador,Guayaquil,Básico,2024-11-16,55
+E0097,Carla García,México,Guadalajara,Premium,2025-05-12,49
+E0098,Hugo Aguilar,Perú,Trujillo,Básico,2024-04-04,23
+E0099,Hugo Castro,Perú,Cusco,Premium,2026-03-28,51
+E0100,María Quispe,Colombia,Cali,Premium,2024-08-06,18
+E0101,Paola Valdez,Ecuador,Cuenca,Gratis,2026-05-24,47
+E0102,Fernando Valdez,Perú,Arequipa,Básico,2025-10-11,51
+E0103,Andrea Acosta,México,Querétaro,Premium,2024-10-18,42
+E0104,Diego Paredes,Chile,Santiago,Premium,2024-04-07,42
+E0105,Mateo Aguilar,Colombia,Bogotá,Básico,2025-01-14,35
+E0106,Camila Herrera,Perú,Trujillo,Gratis,2026-03-26,31
+E0107,Paola Herrera,Colombia,Medellín,Básico,2025-05-22,28
+E0108,Ana Quispe,Ecuador,Quito,Básico,2026-04-30,26
+E0109,Hugo López,México,Querétaro,Básico,2024-12-29,25
+E0110,Valeria Medina,Colombia,Medellín,Premium,2025-11-03,54
+E0111,Diego Ramos,Argentina,Córdoba,Gratis,2025-04-04,38
+E0112,Renzo Paredes,Chile,Concepción,Gratis,2024-07-22,45
+E0113,Lucía Salazar,Chile,Santiago,Básico,2026-05-25,29
+E0114,Natalia Medina,Colombia,Bogotá,Básico,2025-09-10,53
+E0115,Andrea Paredes,Ecuador,Quito,Básico,2026-03-26,53
+E0116,Mateo Cruz,Perú,Cusco,Gratis,2025-06-09,31
+E0117,Paola Medina,Colombia,Cali,Básico,2025-01-09,41
+E0118,Lucía López,México,Ciudad de México,Gratis,2026-03-11,53
+E0119,Carlos López,Perú,Cusco,Básico,2024-01-19,23
+E0120,Carla López,Argentina,Córdoba,Básico,2024-11-24,54
+E0121,Diego Ramos,Perú,Trujillo,Básico,2025-10-14,24
+E0122,Daniela Reyes,Perú,Trujillo,Gratis,2025-08-01,44
+E0123,Alejandra Torres,México,Guadalajara,Gratis,2024-11-13,50
+E0124,Alejandra Ramírez,Perú,Trujillo,Gratis,2024-03-10,34
+E0125,Sofía Cárdenas,Perú,Lima,Premium,2025-10-04,48
+E0126,Carlos Herrera,México,Ciudad de México,Básico,2025-03-22,25
+E0127,Camila Cruz,Perú,Trujillo,Gratis,2026-04-01,20
+E0128,Alejandra Cruz,México,Ciudad de México,Básico,2026-02-07,54
+E0129,José Núñez,Chile,Concepción,Gratis,2026-03-08,55
+E0130,Carla Cárdenas,Colombia,Cali,Básico,2024-04-14,27
+E0131,Sofía Ortega,Colombia,Bogotá,Básico,2025-06-01,35
+E0132,Luis Ramírez,Colombia,Bogotá,Básico,2024-01-24,20
+E0133,Jorge Silva,Argentina,Buenos Aires,Básico,2024-06-06,36
+E0134,Lucía Cárdenas,Perú,Arequipa,Gratis,2025-10-18,38
+E0135,Daniela Núñez,Perú,Arequipa,Básico,2025-10-03,41
+E0136,Fernando Núñez,Perú,Arequipa,Gratis,2024-07-23,51
+E0137,Hugo Paredes,Ecuador,Guayaquil,Gratis,2024-03-09,50
+E0138,Fiorella Medina,México,Guadalajara,Básico,2025-06-22,27
+E0139,Ricardo Chávez,Ecuador,Cuenca,Gratis,2024-04-27,23
+E0140,Miguel Paredes,Ecuador,Quito,Premium,2024-11-12,28
+E0141,Jorge Paredes,Chile,Concepción,Básico,2025-11-20,33
+E0142,Carla Valdez,Colombia,Cali,Premium,2024-04-06,30
+E0143,Hugo Núñez,Perú,Arequipa,Básico,2024-06-28,28
+E0144,Jorge García,Perú,Cusco,Gratis,2025-12-14,48
+E0145,Diego Navarro,Ecuador,Cuenca,Básico,2025-04-14,40
+E0146,Lucía Chávez,Perú,Lima,Premium,2024-11-08,41
+E0147,Luis Peña,México,Guadalajara,Básico,2024-09-13,44
+E0148,Luis Valdez,Chile,Concepción,Premium,2025-08-06,24
+E0149,Carlos Herrera,Perú,Cusco,Premium,2026-02-14,24
+E0150,Carlos Castro,México,Querétaro,Premium,2026-03-28,25
+E0151,Hugo Reyes,México,Guadalajara,Premium,2024-12-20,23
+E0152,Bruno Valdez,Ecuador,Quito,Premium,2024-06-06,52
+E0153,Bruno Rojas,Colombia,Bogotá,Gratis,2025-08-08,25
+E0154,Sebastián Cruz,Perú,Arequipa,Premium,2025-09-12,50
+E0155,Renzo Torres,Chile,Santiago,Básico,2025-06-02,24
+E0156,Álvaro Torres,Colombia,Bogotá,Básico,2025-07-08,44
+E0157,Sofía Peña,Chile,Valparaíso,Gratis,2024-10-23,46
+E0158,Renzo Flores,México,Querétaro,Gratis,2024-08-22,43
+E0159,Valeria García,Perú,Lima,Básico,2024-07-19,35
+E0160,Alejandra Silva,Chile,Concepción,Premium,2025-08-19,22
+E0161,Sofía Valdez,Colombia,Medellín,Premium,2024-06-08,21
+E0162,Alejandra Espinoza,Ecuador,Guayaquil,Premium,2024-12-27,40
+E0163,Fiorella Ramírez,Argentina,Córdoba,Premium,2025-06-07,51
+E0164,María Campos,México,Querétaro,Gratis,2025-08-16,31
+E0165,Sebastián Torres,México,Querétaro,Premium,2025-11-06,23
+E0166,Lucía Chávez,México,Guadalajara,Premium,2024-11-13,31
+E0167,Luis Valdez,Perú,Cusco,Premium,2024-09-19,50
+E0168,Daniela Espinoza,México,Guadalajara,Gratis,2025-07-28,25
+E0169,Mateo Medina,Argentina,Buenos Aires,Gratis,2024-02-26,43
+E0170,Lucía Silva,México,Querétaro,Gratis,2025-08-23,51
+E0171,Carla Castro,Colombia,Medellín,Premium,2024-09-24,42
+E0172,Gabriela Sánchez,Chile,Santiago,Gratis,2025-05-02,22
+E0173,Álvaro Flores,Ecuador,Guayaquil,Premium,2026-01-05,41
+E0174,Ana López,Perú,Arequipa,Básico,2024-12-14,41
+E0175,María Cárdenas,México,Querétaro,Gratis,2024-09-06,52
+E0176,Alejandra Cruz,Perú,Arequipa,Premium,2025-05-02,24
+E0177,Gabriela Rojas,Perú,Arequipa,Gratis,2025-03-20,26
+E0178,Renzo Quispe,México,Querétaro,Básico,2025-05-02,43
+E0179,José Herrera,Perú,Trujillo,Gratis,2025-01-16,26
+E0180,Fernando Chávez,Chile,Valparaíso,Básico,2025-11-07,44

@@ -1,0 +1,15 @@
+# Metadatos de macOS (aparecen al descomprimir .zip)
+__MACOSX/
+.DS_Store
+._*
+
+# Windows / OneDrive
+desktop.ini
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Videos y archivos pesados de clase
+*.mp4
+*.zip

@@ -1,0 +1,46 @@
+curso_id,instructor_id,titulo_curso,categoria,nivel,precio,duracion_horas,fecha_publicacion,activo
+K0001,I015,SQL desde Cero,Data Analytics,Avanzado,55.00,13.32,2025-04-05,true
+K0002,I008,Power BI Aplicado,Data Analytics,Básico,0.00,14.53,2026-01-17,true
+K0003,I008,Excel para Analistas,Data Analytics,Intermedio,75.00,6.88,2025-09-26,true
+K0004,I008,Storytelling con Datos,Data Analytics,Intermedio,65.00,11.41,2024-03-10,true
+K0005,I015,Estadística Práctica,Data Analytics,Avanzado,90.00,9.73,2024-10-27,true
+K0006,I008,Databricks Fundamentals,Data Analytics,Básico,35.00,14.08,2023-04-01,true
+K0007,I015,Modelado Dimensional,Data Analytics,Intermedio,65.00,9.22,2023-01-22,true
+K0008,I009,Python Esencial,Programación,Intermedio,40.00,6.49,2025-11-26,true
+K0009,I016,JavaScript Moderno,Programación,Básico,45.00,25.44,2023-10-08,true
+K0010,I016,APIs con FastAPI,Programación,Intermedio,55.00,4.32,2024-11-03,true
+K0011,I009,Git y GitHub,Programación,Intermedio,55.00,29.20,2023-07-29,true
+K0012,I016,POO con Python,Programación,Avanzado,100.00,25.69,2025-04-21,true
+K0013,I009,Testing Automatizado,Programación,Intermedio,65.00,31.93,2024-11-06,true
+K0014,I016,Angular Profesional,Programación,Intermedio,75.00,22.33,2023-01-15,true
+K0015,I010,Marketing Digital,Marketing,Intermedio,75.00,14.40,2024-12-17,true
+K0016,I010,SEO Práctico,Marketing,Intermedio,25.00,32.54,2025-04-30,true
+K0017,I003,Contenido para Redes,Marketing,Básico,0.00,26.12,2024-06-30,true
+K0018,I017,Analítica de Campañas,Marketing,Básico,0.00,29.55,2024-03-11,true
+K0019,I010,Email Marketing,Marketing,Intermedio,75.00,40.70,2023-11-23,true
+K0020,I017,Growth Marketing,Marketing,Intermedio,45.00,24.20,2024-11-30,true
+K0021,I018,Fundamentos de UX,Diseño UX,Básico,30.00,9.99,2023-05-05,true
+K0022,I004,Figma desde Cero,Diseño UX,Intermedio,105.00,30.68,2024-01-22,true
+K0023,I004,Research con Usuarios,Diseño UX,Básico,30.00,17.79,2025-04-06,true
+K0024,I004,Diseño de Interfaces,Diseño UX,Básico,40.00,25.14,2023-12-24,true
+K0025,I004,Prototipado Avanzado,Diseño UX,Básico,40.00,20.14,2023-07-03,true
+K0026,I004,Accesibilidad Digital,Diseño UX,Intermedio,85.00,35.10,2025-06-11,true
+K0027,I019,Finanzas para Emprendedores,Negocios,Básico,55.00,34.94,2025-11-15,true
+K0028,I012,Gestión de Proyectos,Negocios,Básico,45.00,6.61,2024-05-06,false
+K0029,I012,Ventas Consultivas,Negocios,Avanzado,65.00,13.76,2025-09-17,true
+K0030,I005,Productividad Personal,Negocios,Avanzado,85.00,4.19,2024-04-12,true
+K0031,I005,Liderazgo de Equipos,Negocios,Básico,25.00,20.25,2023-01-02,true
+K0032,I019,Estrategia Comercial,Negocios,Básico,45.00,39.28,2024-09-04,true
+K0033,I020,Fundamentos de AWS,Cloud,Intermedio,0.00,7.88,2023-10-01,true
+K0034,I013,Google Cloud Essentials,Cloud,Básico,30.00,28.89,2023-02-19,true
+K0035,I020,Azure para Principiantes,Cloud,Básico,30.00,21.21,2023-12-08,false
+K0036,I006,Docker y Contenedores,Cloud,Intermedio,20.00,22.17,2025-12-31,true
+K0037,I006,Kubernetes Básico,Cloud,Avanzado,110.00,33.73,2025-08-27,true
+K0038,I006,Infraestructura como Código,Cloud,Avanzado,90.00,38.11,2025-02-05,true
+K0039,I014,Introducción a Machine Learning,Inteligencia Artificial,Avanzado,85.00,17.92,2025-02-04,false
+K0040,I014,Prompt Engineering,Inteligencia Artificial,Intermedio,35.00,31.75,2023-01-30,true
+K0041,I007,MLOps End to End,Inteligencia Artificial,Intermedio,95.00,6.11,2023-04-13,true
+K0042,I007,NLP Aplicado,Inteligencia Artificial,Avanzado,0.00,5.23,2023-12-27,true
+K0043,I007,Visión Computacional,Inteligencia Artificial,Básico,0.00,4.90,2025-06-17,true
+K0044,I014,Agentes con IA,Inteligencia Artificial,Intermedio,90.00,9.61,2025-09-17,true
+K0045,I007,Modelos Generativos,Inteligencia Artificial,Básico,65.00,39.41,2025-10-12,true
